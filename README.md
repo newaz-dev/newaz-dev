@@ -113,19 +113,18 @@ Stay tuned 🚀
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img
-    width="49%"
+    width="48%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newaz-dev&theme=github_dark"
-    alt="newaz-dev GitHub stats"
+    alt="GitHub Stats"
   />
-
   <img
-    width="49%"
+    width="48%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newaz-dev&theme=github_dark"
-    alt="newaz-dev repositories per language"
+    alt="Top Languages by Repository"
   />
 </p>
 
