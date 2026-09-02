@@ -168,26 +168,14 @@ Stay tuned 🚀
 
 ---
 
-# 📈 Contribution Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=newaz-dev&theme=github-compact&hide_border=true&area=true"
-    width="100%"
-    alt="newaz-dev GitHub contribution graph"
-  />
-</p>
-
----
 
 # 🏆 GitHub Achievements
 
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=newaz-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
-    alt="newaz-dev GitHub trophies"
-  />
-</p>
+<div align="center">
+
+<img src="https://github-trophies.vercel.app/?username=newaz-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="newaz-dev GitHub Trophies" />
+
+</div>
 
 ---
 
