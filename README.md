@@ -118,14 +118,14 @@ Stay tuned 🚀
 <p align="center">
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=newaz-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newaz-dev&theme=github_dark"
     alt="newaz-dev GitHub stats"
   />
 
   <img
     width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=newaz-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
-    alt="newaz-dev most used languages"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newaz-dev&theme=github_dark"
+    alt="newaz-dev repositories per language"
   />
 </p>
 
