@@ -1,42 +1,224 @@
 <h1 align="center">Hi 👋, I'm Md Shah Newaz Fahmir Hridoy</h1>
-<h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=newaz-dev&label=Profile%20views&color=0e75b6&style=flat" alt="newaz-dev" /> </p>
+<h3 align="center">
+  Full-Stack Web Developer | Python • Django • React • AI
+</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=newaz-dev" alt="newaz-dev" /></a> </p>
-
-- 🔭 I’m currently working on [python_learning_with_50_project](https://github.com/newaz-dev/python_learning_with_50_project.git)
-
-- 🌱 I’m currently learning **Full-stack web development with python, Django, React and AI**
-
-- 👯 I’m looking to collaborate on **Full-Stack Web Development, Python and AI Projects**
-
-- 🤝 I’m looking for help with **Open Source Contributions and Production-Ready Web Applications**
-
-- 💬 Ask me about **Python, Django, react, Web Development and AI**
-
-- 📫 How to reach me **newaz.fahmir@gmail.com**
-
-- ⚡ Fun fact **I enjoy turning ideas into real-world applications.**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/newaz_fahmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="newaz_fahmir" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/md shah newaz fahmir hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md shah newaz fahmir hridoy" height="30" width="40" /></a>
-<a href="https://kaggle.com/newazfahmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="newazfahmir" height="30" width="40" /></a>
-<a href="https://fb.com/md shah newaz fahmir hridoy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="md shah newaz fahmir hridoy" height="30" width="40" /></a>
-<a href="https://instagram.com/newaz.fahmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="newaz.fahmir" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucgkhldeetyxne-unkwn1hjg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucgkhldeetyxne-unkwn1hjg" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/newaz_fahmir" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="newaz_fahmir" height="30" width="40" /></a>
-<a href="https://www.topcoder.com/members/1216" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="1216" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/MWyJN9uwBt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/MWyJN9uwBt" height="30" width="40" /></a>
+<p align="center">
+  <em>Building practical web applications and continuously exploring intelligent software systems.</em>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=newaz-dev&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="newaz-dev profile views"
+  />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=newaz-dev&show_icons=true&locale=en&layout=compact" alt="newaz-dev" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=newaz-dev&show_icons=true&locale=en" alt="newaz-dev" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=newaz-dev&" alt="newaz-dev" /></p>
+- 🔭 I'm currently working on **[Python Learning with 50 Projects](https://github.com/newaz-dev/python_learning_with_50_project)**
+
+- 🌱 I'm currently learning **Full-Stack Web Development with Python, Django, React and AI**
+
+- 👯 I'm looking to collaborate on **Full-Stack Web Development, Python and AI projects**
+
+- 🤝 I'm interested in **Open-Source Contributions and Production-Ready Web Applications**
+
+- 💬 Ask me about **Python, Django, React, Web Development and AI**
+
+- ⚡ I enjoy **turning ideas into real-world applications**
+
+- 📫 Reach me at **newaz.fahmir@gmail.com**
+
+---
+
+## 🛠️ Languages & Technologies
+
+### 👨‍💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+</p>
+
+### 🌐 Frontend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+</p>
+
+### ⚙️ Backend Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,django,nodejs" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql" />
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,opencv" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🐍 Python Learning with 50 Projects
+
+A hands-on Python learning journey focused on building practical projects and strengthening problem-solving skills.
+
+**Tech:** Python
+
+<a href="https://github.com/newaz-dev/python_learning_with_50_project">
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</td>
+
+<td width="50%">
+
+### 🚧 More Projects Coming Soon
+
+I'm currently building projects involving:
+
+- Full-Stack Web Development
+- Django
+- React
+- Python
+- AI / Machine Learning
+
+Stay tuned 🚀
+
+</td>
+</tr>
+</table>
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=newaz-dev&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true"
+    alt="newaz-dev GitHub stats"
+  />
+
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=newaz-dev&layout=compact&theme=github_dark&hide_border=true&langs_count=8"
+    alt="newaz-dev most used languages"
+  />
+</p>
+
+---
+
+## 📈 Profile Summary
+
+<p align="center">
+  <img
+    width="100%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newaz-dev&theme=github_dark"
+    alt="newaz-dev profile summary"
+  />
+</p>
+
+<p align="center">
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newaz-dev&theme=github_dark"
+    alt="newaz-dev GitHub statistics"
+  />
+
+  <img
+    width="49%"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newaz-dev&theme=github_dark"
+    alt="newaz-dev repositories per language"
+  />
+</p>
+
+---
+
+# 🔥 Contribution Streak
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=newaz-dev&theme=github-dark-blue&hide_border=true"
+    alt="newaz-dev GitHub streak"
+  />
+</p>
+
+---
+
+# 📈 Contribution Activity Graph
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=newaz-dev&theme=github-compact&hide_border=true&area=true"
+    width="100%"
+    alt="newaz-dev GitHub contribution graph"
+  />
+</p>
+
+---
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=newaz-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=6"
+    alt="newaz-dev GitHub trophies"
+  />
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:newaz.fahmir@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/newaz-dev">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/newaz.fahmir">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://kaggle.com/newazfahmir">
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/newaz_fahmir">
+  <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <i>⭐ Building, learning and improving one commit at a time.</i>
+</p>
