@@ -132,27 +132,17 @@ Stay tuned 🚀
 
 ## 📈 Profile Summary
 
-<p align="center">
-  <img
-    width="100%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newaz-dev&theme=github_dark"
-    alt="newaz-dev profile summary"
-  />
-</p>
+<div align="center">
 
-<p align="center">
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newaz-dev&theme=github_dark"
-    alt="newaz-dev GitHub statistics"
-  />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=newaz-dev&theme=github_dark" alt="Profile Details" />
 
-  <img
-    width="49%"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newaz-dev&theme=github_dark"
-    alt="newaz-dev repositories per language"
-  />
-</p>
+<br><br>
+
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newaz-dev&theme=github_dark" alt="GitHub Stats" />
+&nbsp;
+<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newaz-dev&theme=github_dark" alt="Top Languages by Repository" />
+
+</div>
 
 ---
 
