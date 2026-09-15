@@ -40,7 +40,7 @@
 ### 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js" />
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 ### 🌐 Frontend Development
@@ -70,7 +70,7 @@
 ### 🔧 Tools & Platforms
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode" />
 </p>
 
 ---
@@ -138,12 +138,6 @@ Stay tuned 🚀
 
 <br><br>
 
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=newaz-dev&theme=github_dark" alt="GitHub Stats" />
-&nbsp;
-<img width="47%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=newaz-dev&theme=github_dark" alt="Top Languages by Repository" />
-
-</div>
-
 ---
 
 # 🔥 Contribution Streak
@@ -154,17 +148,6 @@ Stay tuned 🚀
     alt="newaz-dev GitHub streak"
   />
 </p>
-
----
-
-
-# 🏆 GitHub Achievements
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=newaz-dev&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="newaz-dev GitHub Trophies" />
-
-</div>
 
 ----
 
